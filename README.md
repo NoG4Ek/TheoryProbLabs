@@ -1,29 +1,22 @@
-# Foobar
+# Theory probability labs
 
-Foobar is a Python library for dealing with word pluralization.
+University project implementing system and situation modeling
 
-## Installation
+## Tasks List
+* [BallBoxes](#ball-boxes)
+* [BallBoxesArrange](#ball-boxes-arrange)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+### Ball Boxes
+Set baskets with balls. It is required to guess where is which basket by sequential extraction of balls.
 
-```bash
-pip install foobar
-```
+### Ball Boxes Arrange
+Randomly mixed baskets with known content. Extracting balls from cyclical shifting.
+Guessing the order of the baskets.
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## A Source
+Used [this](https://github.com/Lexcorp3439/labs-pt)
+## Mark
+<details>
+  <summary>Spoiler warning</summary>
+    ['Be happy'](https://i.pinimg.com/originals/b2/f1/86/b2f186c4ab6e95f4296179c616433def.jpg/)
+</details>
