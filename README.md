@@ -15,8 +15,12 @@ Guessing the order of the baskets.
 
 ## A Source
 Used [this](https://github.com/Lexcorp3439/labs-pt)
+
 ## Mark
 <details>
   <summary>Spoiler warning</summary>
-    ['Be happy'](https://i.pinimg.com/originals/b2/f1/86/b2f186c4ab6e95f4296179c616433def.jpg/)
+```
+  ['Be happy'](https://i.pinimg.com/originals/b2/f1/86/b2f186c4ab6e95f4296179c616433def.jpg/)
+  ```
+    
 </details>
