@@ -1,4 +1,4 @@
-package model
+package models
 
 import java.io.PrintWriter
 import org.knowm.xchart.SwingWrapper

@@ -1,4 +1,4 @@
-package model
+package models
 
 abstract class Hypothesis(var p: Double, val info: Info) {
     open var pAH: Double = 0.0

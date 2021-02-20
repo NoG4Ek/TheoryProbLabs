@@ -1,9 +1,9 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Experiment
-import model.Hypothesis
-import model.SolveBuilder
-import utils.FastScanner
+import models.Experiment
+import models.Hypothesis
+import models.SolveBuilder
+import models.utils.FastScanner
 
 class BallBoxes : SolveBuilder {
     var n_boxes = 6
@@ -17,7 +17,7 @@ class BallBoxes : SolveBuilder {
 
     override fun read() {
         val j = this::class.java
-        val scanner = FastScanner(j.getResourceAsStream("/ballboxes\\\\task_1_ball_boxes.txt"))
+        val scanner = FastScanner(j.getResourceAsStream("/tasks.ballboxes\\\\task_1_ball_boxes.txt"))
         parseBox(scanner)
         parseExp(scanner)    }
 

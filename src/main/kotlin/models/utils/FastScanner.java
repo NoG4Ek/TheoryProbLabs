@@ -1,4 +1,4 @@
-package utils;
+package models.utils;
 
 import kotlin.text.Charsets;
 

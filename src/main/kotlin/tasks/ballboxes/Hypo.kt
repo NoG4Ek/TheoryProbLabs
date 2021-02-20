@@ -1,8 +1,8 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Experiment
-import model.Hypothesis
-import model.Info
+import models.Experiment
+import models.Hypothesis
+import models.Info
 
 class Hypo(p: Double,info: Info): Hypothesis(p, info) {
 //    override var pAH: Double = 0.0

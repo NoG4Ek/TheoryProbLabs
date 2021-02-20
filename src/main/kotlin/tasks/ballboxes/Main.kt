@@ -1,6 +1,6 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Property
+import models.Property
 
 fun main() {
     val property = Property("ballout.txt", 50)

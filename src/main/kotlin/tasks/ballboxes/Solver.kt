@@ -1,9 +1,9 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Experiment
-import model.Hypothesis
-import model.Property
-import model.Solver
+import models.Experiment
+import models.Hypothesis
+import models.Property
+import models.Solver
 import org.knowm.xchart.SwingWrapper
 import org.knowm.xchart.XYChartBuilder
 import org.knowm.xchart.style.Styler

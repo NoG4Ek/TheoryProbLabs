@@ -1,6 +1,6 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Info
+import models.Info
 
 class Box(
     val total: Int, val red: Int, val white: Int,

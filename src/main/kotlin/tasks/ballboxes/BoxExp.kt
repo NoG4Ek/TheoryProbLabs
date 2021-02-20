@@ -1,6 +1,6 @@
-package ballboxes
+package tasks.ballboxes
 
-import model.Experiment
+import models.Experiment
 
 class BoxExp(): Experiment {
     var list = mutableListOf<Color>()
